@@ -4,15 +4,7 @@ FFBrank
 This is the repository for the **ffbrank** package for scraping (and aggregating... in progress)
 fantasy football rankings.
 
-Installation
-------------
 
-Install from PyPI:
-
-``pip install ffbrank``
-
-Package Overview
-----------------
 
 **Scraping rankings:** There are two objects used for scraping rankings from experts available
 on FantasyPros. The ExpertScraper object is used to find the experts that are included in the 
